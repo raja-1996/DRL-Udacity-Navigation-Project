@@ -6,9 +6,6 @@ This project repository contains my work for the Udacity's [Deep Reinforcement L
 
 In this project, **the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas**
 
-![In Project 1, train an agent to navigate a large world.](images/navigation.gif)
-
-
 ### About Deep Reinforcement Learning
 
 > [Reinforcement learning](https://skymind.ai/wiki/deep-reinforcement-learning) refers to goal-oriented algorithms, which learn how to attain a complex objective (goal) or maximize along a particular dimension over many steps; for example, maximize the points won in a game over many moves. They can start from a blank slate, and under the right conditions they achieve superhuman performance. Like a child incentivized by spankings and candy, these algorithms are penalized when they make the wrong decisions and rewarded when they make the right ones – this is reinforcement.
